@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>lander.ghekiere@gmail.com</email>
+	</maintainer>
+	<longdescription lang="en">
+		These small utilities allow creating very lightweight job queue systems which require no setup, maintenance, supervision, or any long-running processes.
+	</longdescription>
+</pkgmetadata>
